@@ -1,0 +1,5 @@
+# ignore specifc files
+.ipynb_checkpoints
+
+# ignore folders and directories
+venv/
