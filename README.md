@@ -15,12 +15,6 @@ Building using Python Programming Language
 
 Author: [Wesley Mendes](https://github.com/WesGtoX)
 
-## What is the Python? ##
-
-//descricao (Linguagem, Framework, Biblioteca)
-Python is a programming language that lets you work quickly and integrate systems more effectively.
-
-
 ### License ###
 
 [MIT](LICENSE)
